@@ -1,0 +1,13 @@
+@url=https://raw.githubusercontent.com/Faraznassajian/macropad-config/refs/heads/main/keymap.txt
+0|0|TEXT|M|KEY M|Move/Rotate
+0|1|TEXT|H|KEY H|SHELL
+0|2|CTRL|u|CTRL+U|Union
+0|3|CTRL|b|CTRL+B|Substract
+1|0|CTRL|z|CTRL+Z|UNDO
+1|1|TEXT|v|KEY v|Revolve
+1|2|TEXT|w|KEY w|Sweep
+1|3|TEXT|f|KEY f|Chamfer/fillet
+2|0|COMBO|CA-s|CTRL+ALT+S|Items
+2|1|COMBO|CS-i|CTRL+SHIFT+I|Import
+2|2|COMBO|CA-h|CTRL+ALT+H|History
+2|3|KEY|ESC|ESC|ESCAPE
