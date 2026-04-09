@@ -1,4 +1,5 @@
 @url=https://raw.githubusercontent.com/Faraznassajian/macropad-config/refs/heads/main/keymap.txt
+@NAME=General Keymap
 0|0|CTRL|c|CTRL+C|COPY
 0|1|CTRL|v|CTRL+V|PASTE
 0|2|CTRL|w|CTRL+W|CLOSE TABS
