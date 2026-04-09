@@ -1,4 +1,5 @@
 @url=https://raw.githubusercontent.com/Faraznassajian/macropad-config/refs/heads/main/Shapr3d.txt
+@NAME=Shapr3d
 0|0|TEXT|M|KEY M|Move/Rotate
 0|1|TEXT|H|KEY H|SHELL
 0|2|CTRL|u|CTRL+U|Union
