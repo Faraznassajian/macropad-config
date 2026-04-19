@@ -1,0 +1,14 @@
+@url=https://raw.githubusercontent.com/Faraznassajian/macropad-config/refs/heads/main/flux.txt
+@NAME=Flux
+0|0|CTRL|c|CTRL+C|COPY
+0|1|CTRL|v|CTRL+V|PASTE
+0|2|CTRL|w|CTRL+W|CLOSE TABS
+0|3|KEY|CTRLTAB|CTRL+TAB|SWITCH TABS
+1|0|CTRL|z|CTRL+Z|UNDO
+1|1|WINSPACE|-|WIN+SPACE|LANG SWITCH
+1|2|TEXT|F|Flip|Flip Horizontally
+1|3|TEXT|]|Rotate Right|Rotate
+2|0|TEXT|[|Rotate Left|Rotate
+2|1|CTRL|y|CTRL+Y|REDO
+2|2|CTRL|z|CTRL+Z|UNDO
+2|3|KEY|ESC|ESC|ESCAPE
