@@ -1,0 +1,14 @@
+@url=https://raw.githubusercontent.com/Faraznassajian/macropad-config/refs/heads/main/fusion360.txt
+@NAME=Fusion 360
+0|0|TEXT|d|Dimention|Dimention
+0|1|CTRL|o|CTRL+O|Open
+0|2|CTRL|s|CTRL+S|Save
+0|3|TEXT|m|Move|Move
+1|0|CTRL|z|CTRL+Z|UNDO
+1|1|TEXT|t|Trim|Trim
+1|2|TEXT|o|Offset|Offset
+1|3|TEXT|f|Fillet|Fillet
+2|0|TEXT|c|Circle|Circle
+2|1|TEXT|l|Line|Line
+2|2|TEXT|e|Extrusion|Extrusion
+2|3|KEY|ESC|ESC|ESCAPE
